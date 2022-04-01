@@ -48,4 +48,4 @@ W3 schools tutorials for defining functions, Jquery documentation for understand
 
 ## Link to deployed page
 
-[Coding Quiz]( https://cpriyam90.github.io/code-quiz/)
+[Work-day Scheduler]( https://cpriyam90.github.io/work-day-scheduler/)
